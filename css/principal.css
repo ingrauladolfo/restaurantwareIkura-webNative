@@ -1,0 +1,127 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+.body{
+  background-color: #3a3a3c;
+}
+.form-body{
+  background-color: #215e03;
+}
+.form{
+  background-color: #000000;
+  color:#ff0000;
+}
+.form:hover{
+  background-color: #000000;
+  color:#ff0000;
+}
+.form::after{
+  background-color: #000000;
+  color:#ff0000;
+}
+.navbar-brand{
+  color:#3a3a3c;
+  margin-top: auto;
+  font-size: 110%;
+}
+.nav-item{
+  color:#3a3a3c;
+  font-size: 104%;
+}
+.nav-link{
+  color:#3a3a3c;
+  font-size: 104%;
+}
+.navbar-brand:hover{
+  color:#3a3a3c;
+  font-size: 104%;
+}
+.nav-item:hover{
+  color:#3a3a3c;
+  font-size: 104%;
+}
+.nav-link:hover{
+  color:#3a3a3c;
+  font-size: 104%;
+}
+.abajo{
+  background-color: #f1615f;
+  color:#3a3a3c;
+  font-size: 104%;
+}
+.abajo:hover{
+  background-color: #f1615f;
+  color:#3a3a3c;
+  font-size: 104%;
+}
+.menu{
+  background-color: #f1615f;
+  font-size: 104%;
+  text-decoration: none;
+}
+.menu:hover{
+  background-color: #f1615f;
+  font-size: 104%;
+  text-decoration: none;
+}
+.bg{
+  background-color: #f1615f;
+}
+.bg2{
+  background-color: #f1615f;
+}
+.btn-outline-primary{
+  border-color: #f1615f;
+}
+.btn-outline-primary:hover{
+  background-color: #f1615f;
+  border-color: #f1615f;
+}
+.btn-outline-secondary{
+  border-color: #f1615f;
+}
+.btn-outline-secondary:hover{
+  background-color: #f1615f;
+  border-color: #f1615f;
+}
+.select{
+  background-color: #000000;
+  color: #ff0000;
+  border-color: #000000;
+}
+.select::selection{
+  background-color: #000000;
+  color:#ff0000;
+  border-color: #000000;
+}
+.select::before{
+  background-color: #000000;
+  color:#ff0000;
+  border-color: #000000;
+}
+.select:hover{
+  background-color: #000000;
+  color: #ff0000;
+  border-color: #000000;
+}
+.select::after{
+  background-color: #000000;
+  color: #ff0000;
+  border-color: #000000;
+}
+.button{
+  background-color: #000000;
+  border-radius: 50%;
+  border-color: #000000;
+  color: #00ff5e;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  text
+  display: inline-flex;
+  font-size: 16px;
+  margin: 4px 2px 3px;
+}
+.navbar{
+  background-color: #f1615f;
+}

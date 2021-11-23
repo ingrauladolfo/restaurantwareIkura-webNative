@@ -1,0 +1,149 @@
+*{
+  font-family: 'Roboto', sans-serif;
+}
+
+.body{
+  background-color: #ffffff;
+  color:#ff0000;
+}
+.form-body{
+  background-color: #ffffff;
+  color:#ff0000;
+}
+.form{
+  background-color: #ffffff;
+ color:#ff0000;
+}
+.form:hover{
+  background-color: #ffffff;
+ color:#ff0000;
+}
+.form::after{
+  background-color: #ffffff;
+ color:#ff0000;
+}
+
+.button{
+  background-color: #000000;
+  border-radius: 50%;
+  border-color: #000000;
+  color: #00ff5e;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-flex;
+  font-size: 16px;
+  margin: 4px 2px 3px;
+}
+
+.navbar-brand{
+  background-color: #ffffff;
+  color:#3a3a3c;
+  margin-top: auto;
+  font-size: 110%;
+}
+.nav-item{
+  background-color: #ffffff;
+  color:#3a3a3c;
+  font-size: 104%;
+}
+.nav-link{
+  background-color: #ffffff;
+  color:#3a3a3c;
+  font-size: 104%;
+}
+.navbar-brand:hover{
+  background-color: #ffffff;
+  color:#3a3a3c;
+  font-size: 104%;
+}
+.nav-item:hover{
+  background-color: #ffffff;
+  color:#3a3a3c;
+  font-size: 104%;
+}
+.nav-link:hover{
+  background-color: #ffffff;
+  color:#3a3a3c;
+  font-size: 104%;
+}
+.abajo{
+  background-color: #ffffff;
+  color:#3a3a3c;
+  font-size: 104%;
+}
+.abajo:hover{
+  background-color: #ffffff;
+  color:#3a3a3c;
+  font-size: 104%;
+}
+.menu{
+  background-color: #ffffff;
+  font-size: 104%;
+  text-decoration: none;
+}
+.menu:hover{
+  background-color: #ffffff;
+  font-size: 104%;
+  text-decoration: none;
+}
+.bg{
+  background-color: #ffffff;
+}
+.bg2{
+  background-color: #ffffff;
+}
+.btn-outline-primary{
+  border-color: #f1615f;
+}
+.btn-outline-primary:hover{
+  background-color: #f1615f;
+  border-color: #f1615f;
+}
+.btn-outline-secondary{
+  border-color: #f1615f;
+}
+.btn-outline-secondary:hover{
+  background-color: #f1615f;
+  border-color: #f1615f;
+}
+.select{
+  background-color: #ffffff;
+  color: #ff0000;
+  border-color: #000000;
+}
+.select::selection{
+  background-color: #ffffff;
+  color:#ff0000;
+  border-color: #000000;
+}
+.select::before{
+  background-color: #000000;
+  color:#ff0000;
+  border-color: #000000;
+}
+.select:hover{
+  background-color: #000000;
+  color: #ff0000;
+  border-color: #000000;
+}
+.select::after{
+  background-color: #000000;
+  color: #ff0000;
+  border-color: #000000;
+}
+.button{
+  background-color: #000000;
+  border-radius: 50%;
+  border-color: #000000;
+  color: #00ff5e;
+  padding: 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-flex;
+  font-size: 16px;
+  margin: 4px 2px 3px;
+}
+.navbar{
+  background-color: #ffffff;
+}
