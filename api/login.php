@@ -1,4 +1,6 @@
-<?php session_start();
+<?php 
+require_once('frontend/login-vista.php');
+session_start();
     if(isset($_SESSION['usuarios'])) {
         header('location: principal.php');
         exit();
@@ -33,5 +35,5 @@
             $error .= '<i>Este usuario no existe</i>';
         }
     }
-    require_once('frontend/login-vista.php');
+    
 ?>
