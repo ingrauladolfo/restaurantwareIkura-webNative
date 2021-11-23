@@ -37,5 +37,5 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST'){
     $error .= '<i style="color: black; ">Usuario registrado exitosamente</i>';
   }
 }
-require_once('frontend/register-vista.php');
+require_once(__DIR__.'frontend/register-vista.php');
 ?>
