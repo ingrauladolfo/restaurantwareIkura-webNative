@@ -1,3 +1,3 @@
 <?php session_start();
-require_once(__DIR__.'/frontend/clientes-vista.php');
+require_once('frontend/clientes-vista.php');
 ?>
