@@ -1,5 +1,5 @@
 <?php 
-require_once(__DIR__.'frontend/login-vista.php');
+require_once(__DIR__.'/frontend/login-vista.php');
 session_start();
     if(isset($_SESSION['usuarios'])) {
         header('location: principal.php');
