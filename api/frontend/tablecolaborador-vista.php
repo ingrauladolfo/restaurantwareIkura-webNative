@@ -6,11 +6,11 @@ require_once("pooh.php");
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, user-scalable=no initial-scale=1.0 maximum-scale=1.0, minimum-scale=1.0, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie-edge">
-    <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="css/principal.css">
+    <link rel="stylesheet" href="../../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../../principal.css">
     <link href="https://fonts.googleapis.com/css?family=Lilita+One" rel="stylesheet">
     <title>Ikura Sushi & Grill - Tabla colaboradores </title>
-    <link rel="shortcut icon" href="image/ikura.ico">
+    <link rel="shortcut icon" href=../../"image/ikura.ico">
   </head>
   <body class="body">
     <?php
